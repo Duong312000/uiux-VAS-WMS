@@ -1,11 +1,5 @@
 # VAS-WMS | Bản Mẫu Giao Diện Tác Nghiệp & Điều Hành Kho Chuỗi Lạnh
 
-> **Đề tài:** Báo cáo Kiến tập – *Hệ thống Quản trị Kho hàng và Luồng luân chuyển hàng hóa cho Công ty TNHH Thiết bị Khoa học Việt Anh (VAS-WMS)*  
-> **Cơ quan đào tạo:** Khoa Hệ thống Thông tin, Trường Đại học Kinh tế – Luật (UEL), ĐHQG-HCM  
-> **Giảng viên hướng dẫn:** ThS. Nguyễn Thế Đại Nghĩa  
-> **Sinh viên thực hiện:** Kiều Hoàng Dương (MSSV: K244111396 – Khóa K24 Thương mại điện tử)  
-> **Địa bàn thực tế:** Kho Tân Bình (HCM-WH01) – Công ty TNHH Thiết bị Khoa học Việt Anh (VAS)
-
 ---
 
 ## 1. Tổng quan Bản mẫu Giao diện (Interactive Prototype)
