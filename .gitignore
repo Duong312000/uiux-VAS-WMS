@@ -1,0 +1,7 @@
+# Backup files
+*_backup*.html
+index_backup*.html
+
+# Helper scripts
+*.py
+temp_check.js
